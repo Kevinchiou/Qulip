@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<catalog>
+	<!-- type 1: 關鍵字, 2: 其他 User 上傳, 3: 其他 -->
+	<item icon="c01.png" type="1">空中主日學</item>
+	<item icon="c02.png" type="1">空中聖經學院</item>
+	<item icon="c03.png" type="1">劉三講古</item>
+	<item icon="c04.png" type="1">真情部落格</item>
+	<item icon="c05.png" type="1">禱告大軍</item>
+	<item icon="c06.png" type="1">音樂河</item>
+	<item icon="c07.png" type="1">幸福來敲門</item>
+	<item icon="c08.png" type="1">全家哈哈哈</item>
+<!--
+    <item icon="c16.png" type="1">烤箱讀書會</item>
+	<item icon="c17.png" type="1">豪小子Jeremy Lin</item>
+	<item icon="c18.png" type="1">客家新事~講台系列</item>
+	<item icon="c19.png" type="1">真情之夜</item>
+	<item icon="c20.png" type="1">幸福學堂</item>
+	<item icon="c21.png" type="1">撒拉弗計畫</item>
+	<item icon="c22.png" type="1">健康新主流</item>
+	<item icon="c23.png" type="1">我們EYE旅行</item>
+-->
+    <item icon="c09.png" type="1">生活</item>
+	<item icon="c10.png" type="1">心靈不打烊</item>
+	<item icon="c11.png" type="1">心靈樂飛揚</item>
+	<item icon="c12.png" type="1">家庭八點檔</item>
+	<item icon="c13.png" type="1">特會精選</item>
+	<!-- <item icon="c14.png" type="2">寧靜時分</item>  -->
+	<item icon="c15.png" type="3">其他</item>
+</catalog>

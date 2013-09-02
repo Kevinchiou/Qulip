@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottompad">10dp</dimen>
+    <dimen name="drag_item_normal_height">48dip</dimen>
+    <dimen name="drag_item_expand_height">96dip</dimen> 
+    <dimen name="hint_y_offset">64dip</dimen>  
+</resources>

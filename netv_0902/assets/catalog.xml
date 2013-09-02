@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<catalog>
+	<item icon="c01.png">
+		<title>耕心人生</title>
+		<desc>素人生命見證分享</desc>
+		<playlist>PL5062873D5C7711BA</playlist>
+	</item>
+	<item icon="c02.png">
+		<title>在地英文</title>
+		<desc>趣味台語教英語</desc>
+		<subitem>
+			<title>在地英文Ⅱ</title>
+			<playlist>PL43C708021C62C72C</playlist>
+		</subitem>
+		<subitem>
+			<title>在地英文</title>
+			<playlist>PL9D95ADA4373DD4ED</playlist>
+		</subitem>
+		<subitem>
+			<title>一句好話</title>
+			<playlist>PLA1730D300E82323D</playlist>
+		</subitem>
+	</item>
+	<item icon="c03.png">
+		<title>做伙尬台語</title>
+		<desc>白話字輕鬆學台語</desc>
+		<playlist>PLB50CC2F7F40F3B4C</playlist>
+	</item>
+	<item icon="c10.png">
+	<title>台灣第一</title>
+	<desc>深度報導台灣產業</desc>
+	<playlist>PLE53DC25FD4ED369D</playlist>
+	</item>
+	<item icon="c04.png">
+		<title>知性訪談</title>
+		<desc>探討社會議題與心靈分享</desc>
+		<subitem>
+			<title>合祈美好</title>
+			<playlist>PL3595BBB988A643A1</playlist>
+		</subitem>
+		<subitem>
+			<title>黃國倫的異想世界</title>
+			<playlist>PLB9C6BE032254DC42</playlist>
+		</subitem>
+		<subitem>
+			<title>遇見黃韻玲</title>
+			<playlist>PLCCAAF2D84BFFE6C9</playlist>
+		</subitem>
+		<subitem>
+			<title>九點新看見</title>
+			<playlist>PL037BDCBD2AB6EC42</playlist>
+		</subitem>
+	</item>
+	<item icon="c05.png">
+		<title>靈修信仰</title>
+		<desc>靈修小品與信仰造就</desc>
+		<subitem>
+			<title>新眼光晨更</title>
+			<playlist>PL9E569F922052C82C</playlist>
+		</subitem>
+		<subitem>
+			<title>新眼光神學院</title>
+			<playlist>PL6E6906C5C07F201C</playlist>
+		</subitem>
+		<subitem>
+			<title>信仰充電站</title>
+			<playlist>PL0B7201DE50D20707</playlist>
+		</subitem>
+	</item>
+	<item icon="c06.png">
+		<title>兒少教學</title>
+		<desc>培養品德與智識</desc>
+		<subitem>
+			<title>台灣巧囡仔</title>
+			<playlist>PL9FE958433831E7FF</playlist>
+		</subitem>
+		<subitem>
+			<title>日光少年</title>
+			<playlist>PL910C43528D7DB66D</playlist>
+		</subitem>
+		<subitem>
+			<title>快樂黃金城</title>
+			<playlist>PL023A86390E0CD4ED</playlist>
+		</subitem>
+	</item>
+	<item icon="c07.png">
+		<title>健康醫療</title>
+		<desc>醫療資訊與照護</desc>
+		<subitem>
+			<title>健康新一點</title>
+			<playlist>PLA174C56EAB97ABD4</playlist>
+		</subitem>
+		<subitem>
+			<title>健康新眼光</title>
+			<playlist>PL31DEC2117B2B2AA2</playlist>
+		</subitem>
+	</item>
+	<item icon="c08.png">
+		<title>心靈詩歌</title>
+		<desc>悠揚的詩歌旋律</desc>
+		<subitem>
+			<title>心之詩</title>
+			<playlist>PLA891E00B47A907BA</playlist>
+		</subitem>
+		<subitem>
+			<title>新眼光音樂會</title>
+			<playlist>PLB5EEE4C1ACA7B447</playlist>
+		</subitem>
+		<subitem>
+			<title>至高讚美</title>
+			<playlist>PLF704BEDC9C9306F4</playlist>
+		</subitem>
+	</item>
+	<item icon="c09.png">
+		<title>精選內容</title>
+		<desc>最新、最精彩</desc>
+		<subitem>
+			<title>新眼光特報</title>
+			<playlist>PL266FCC4DFAA99D88</playlist>
+		</subitem>
+		<subitem>
+			<title>光照角落</title>
+			<playlist>PL43CC935FD57B1EE3</playlist>
+		</subitem>
+		<subitem>
+			<title>特別節目</title>
+			<playlist>PL8EDA9FD70CB42130</playlist>
+		</subitem>
+		<subitem>
+			<title>節目精選</title>
+			<playlist>PL2C5ECB95552C753F</playlist>
+		</subitem>
+	</item>
+</catalog>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TVList!</string>
+    <string name="app_name">Good TV 網路電視</string>
+    <string name="search">搜尋：</string>
+    <string name="send">送出</string>
+    <string name="download">下載中...</string>
+    <string name="empty">無資料!</string>
+    <string name="ok">OK!</string>
+    <string name="playlist">撥放清單</string>
+    
+    <string name="save">收藏</string>
+    
+    <string name="save_title">收藏</string>
+    <string name="news_title">最新消息</string>
+</resources>

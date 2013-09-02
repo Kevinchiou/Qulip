@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFF"
+    android:descendantFocusability="blocksDescendants" >
+
+    <TextView
+        android:id="@+id/List_TextView_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#0000FF"
+        android:textSize="18sp"
+        android:layout_marginRight="58dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/List_TextView_desc"
+        android:layout_below="@+id/List_TextView_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="58dp"
+        android:textColor="#000000" />
+
+    <RelativeLayout
+        android:id="@+id/layoutlist20"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/List_Button_save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:focusable="false"
+            android:text="@string/savemusic"
+            android:textColor="#999900" />
+    </RelativeLayout>
+
+</RelativeLayout>

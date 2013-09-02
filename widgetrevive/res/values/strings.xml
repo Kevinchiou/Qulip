@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, newswidget!</string>
+    <string name="app_name">Revive</string>
+    <string name="no_info">Nothing find</string>
+    <string name="news">Revive</string>
+</resources>

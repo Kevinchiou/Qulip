@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Good TV 行動電視</string>
+    
+    <string name="gallery_2_text">Testing</string>
+    <string name="gallery_image">主畫面背景</string>   
+    <string name="web">LIVE 1</string>
+    <string name="playlist">撥放清單</string>
+    <string name="play_music">福音播客</string>
+    <string name="playlist_thumbnail">撥放清單簡圖</string>
+    
+    <string name="download">下載中...</string>
+    <string name="search">搜尋</string>
+    <string name="search_lable">搜尋：</string>
+    <string name="empty">無資料!</string>
+    
+    <string name="send">送出</string>
+    <string name="save">收藏</string>
+    <string name="savemusic">+</string>    
+    
+    <string name="save_title">收藏</string>
+    <string name="music_save_title">播放清單</string>    
+    <string name="news_title">最新消息</string>
+</resources>
